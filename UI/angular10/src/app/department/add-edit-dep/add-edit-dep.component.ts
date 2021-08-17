@@ -29,9 +29,11 @@ export class AddEditDepComponent implements OnInit {
   updateDepartment(){
     var val = {DepartmentId:this.DepartmentId,
       DepartmentName:this.DepartmentName};
-      this.service.addDepartment(val).subscribe(res=>{
+      this.service.updateDepartment(val).subscribe(res=>{
         alert(res.toString());
       });
   }
+
+  
 
 }
