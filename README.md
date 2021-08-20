@@ -1,5 +1,5 @@
 <div align="center">
-<h1>.NET Core Web API - MSSQL - Angular</h1>
+<h1>.NET Core Web API - MSSQL - Angular - SqlClient</h1>
 <h3>Department-Employee Project</h3>
 <p>You can create departments, update departments, delete departments and assign workers to departments.
 Also you can create employee, update employe, delete employee.
