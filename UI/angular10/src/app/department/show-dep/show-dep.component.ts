@@ -31,7 +31,7 @@ export class ShowDepComponent implements OnInit {
       DeparmentId:0,
       DepartmentName:""
     }
-    this.ModalTitle="Add Department";
+    this.ModalTitle="Departman Ekle";
     this.ActivateAddEditDepComp=true;
   }
   editClick(item:any){
