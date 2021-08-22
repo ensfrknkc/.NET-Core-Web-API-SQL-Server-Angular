@@ -28,12 +28,12 @@ export class ShowEmpComponent implements OnInit {
       DateOfJoining:"",
       PhotoFileName:"anonymous.png"
     }
-    this.ModalTitle="Add Employee";
+    this.ModalTitle="Çalışan Ekle";
     this.ActivateAddEditEmpComp=true;
   }
   editClick(item:any){
     this.emp=item;
-    this.ModalTitle="Edit Employee";
+    this.ModalTitle="Çalışan Güncelle";
     this.ActivateAddEditEmpComp=true;
   }
 
