@@ -9,5 +9,10 @@ On the other hand you can list employees and departments.
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="60" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="60" height="40"/> 
 <h4>MsSql is used as database</h4>
+
+<img src="https://raw.githubusercontent.com/ensfrknkc/.NET-Core-Web-API-SQL-Server-Angular/main/images/image1.PNG" alt="image1"/> 
+<img src="https://raw.githubusercontent.com/ensfrknkc/.NET-Core-Web-API-SQL-Server-Angular/main/images/image2.PNG" alt="image1"/> 
+<img src="https://raw.githubusercontent.com/ensfrknkc/.NET-Core-Web-API-SQL-Server-Angular/main/images/image3.PNG" alt="image1"/> 
+<img src="https://raw.githubusercontent.com/ensfrknkc/.NET-Core-Web-API-SQL-Server-Angular/main/images/image4.PNG" alt="image1"/> 
 </div>
 
